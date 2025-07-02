@@ -2,17 +2,19 @@
 
 **Data DevOps Engineer | BI Platform Engineer | AI/ML Engineer**
 
-I bring **over 10 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work blends automation, observability, AI, and regulatory compliance to help businesses move faster while meeting the highest standards of resilience and governance.
+I bring **3 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work blends automation, observability, AI, and regulatory compliance to help businesses move faster while meeting the highest standards of resilience and governance.
 
 <p align="center">
  <h4>🎥 Welcome Video</h4>
 </p>
 
+<!--
 <p align="center">
  <a href="https://youtu.be/MYuLMw1obAc" target="_blank">
  <img src="" alt="Watch the video" width="600">
  </a>
 </p>
+-->
 
 <p align="center">
  📌 <em>Click the image above to watch the welcome video to my GitHub portfolio.</em>
@@ -28,13 +30,12 @@ I bring **over 10 years of experience** designing, securing, and scaling cloud i
 - **Cloud Platforms**: AWS, OCI, Azure Cloud (multi-cloud and hybrid)
 - **Infrastructure as Code**: Terraform, Cloud Formation, Ansible, Helm
 - **CI/CD Automation**: GitHub Actions, Jenkins, GitLab CI, ArgoCD
-- **Observability**: Prometheus, Grafana, Solarwind
+- **Observability**: Prometheus, Grafana, SolarWinds
 - **Security & Compliance**: DevSecOps, SonarQube
 
 
-- **AI/ML Engineering**: Python, OpenAI APIs, ML Pipelines, Log Analytics
 
-**I specialize in building developer platforms and automation pipelines that reduce risk, cut costs, and support compliance in highly regulated industries like healthcare and financial services.**
+**I specialise in building developer platforms and automation pipelines that reduce risk, cut costs, and support compliance in highly regulated industries, such as defence and e-commerce services. ****
 
 ---
 
@@ -56,8 +57,7 @@ I bring **over 10 years of experience** designing, securing, and scaling cloud i
 
 | Project Name | Tech Stack | Summary |
 |--------------|------------|---------|
-| LAMP-Stack Containerized Application | AWS, Terraform, Python, FinOps, OpenAI | Predicts and reduces cloud spending using AI models |
-| Multicloud DevOps Lab | Docker, Kubernetes, Jenkins, GitHub Actions | Full-stack app across AWS, Azure, and GCP |
+| LAMP-Stack Containerized Application | AWS, Terraform, Docker, Kubernetes, ArgoCD | Deployed a 3-tier LAMP-Stack Application on Cloud |
 
 Visit my pinned repositories below for source code and detailed documentation.
 
